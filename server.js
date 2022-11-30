@@ -15,5 +15,7 @@ server.listen(3000, () => {
     console.log('JSON Server is running')
 })
 
+const a = 1
+
 // Export the Server API
 module.exports = server
